@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme Colors -->
+    <color name="primary">#BB86FC</color>
+    <color name="primary_dark">#9965DA</color>
+    <color name="accent">#1d1b26</color>
+
+    <!-- Light Theme Colors -->
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#757575</color>
+    <color name="toolbar_background">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="debug_button_background">#1D1B26</color>
+    <color name="logo_background">#F5F5F5</color>
+    <color name="status_bar">#FFFFFF</color>
+    <color name="ripple">#1F000000</color>
+    <color name="dialog_background">#FFFFFF</color>
+</resources>

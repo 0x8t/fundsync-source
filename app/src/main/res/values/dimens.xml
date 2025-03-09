@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <!-- Dialog dimensions -->
+    <dimen name="dialog_message_bottom_margin">36dp</dimen>
+</resources>
